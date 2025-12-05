@@ -10,7 +10,7 @@ The goal of this project is to develop a machine learning model that can classif
 ## Dataset Information
 
 - **Datasets**: Agricultural crops image classification,  AgroPest-12: Image Dataset for Crop Pest Detection
-- **Source**: (https://www.kaggle.com/datasets/mdwaquarazam/agricultural-crops-image-classification), https://www.kaggle.com/datasets/rupankarmajumdar/crop-pests-dataset
+- **Source**: https://www.kaggle.com/datasets/mdwaquarazam/agricultural-crops-image-classification, https://www.kaggle.com/datasets/rupankarmajumdar/crop-pests-dataset
 
 ---
 
@@ -18,7 +18,7 @@ The goal of this project is to develop a machine learning model that can classif
 
 ```bash
 # Clone the repository
-git clone https://github.com/nrhekman/CSC422_Midterm
+git clone https://github.com/nrhekman/CSC_422_Final
 
 # Install dependencies
 pip install -r requirements.txt
